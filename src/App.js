@@ -66,8 +66,6 @@ const WaterElectricityCalculator = () => {
           border: "1px solid #ccc",
           padding: "20px",
           borderRadius: "15px",
-          marginLeft: "500px",
-          marginRight: "500px",
         }}
       >
         <label style={styles.label}>ชื่อผู้ใช้: </label>
